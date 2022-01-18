@@ -1,0 +1,4 @@
+phonenumbers==8.12.41
+colorama==0.4.4
+configparser==5.2.0
+requests==2.27.1
