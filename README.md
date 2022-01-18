@@ -15,3 +15,5 @@ Example: +7925*******
 
 If an error occurs while executing the program, the API request limit (20 requests per day) may have been reached
 Requests by IP address are not limited
+
+**Discord: Flumy#0802**
