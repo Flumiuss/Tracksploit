@@ -1,0 +1,9 @@
+phonenumbers==8.12.41
+configparser==5.2.0
+requests==2.27.1
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PySocks==1.7.1
+pyowm==3.2.0
+geojson==2.5.0
