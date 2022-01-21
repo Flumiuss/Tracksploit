@@ -18,6 +18,7 @@ If an error occurs while executing the program, the API request limit (20 reques
 Requests by IP address are not limited
 
 **GUI Version:**
+
 Before working with the program, you need to execute the script `install_requirements.py` or install the dependencies manually. After installation, you can run the main file `TracksploitGUI.py`
 
 **Discord: Flumy#0802**
